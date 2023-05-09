@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "smallvec",
+    "License": "Apache License V2.0",
+    "License File": "LICENSE-APACHE",
+    "Version Number": "1.10.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/servo/rust-smallvec",
+    "Description": "'Small vector' optimization: store up to a small number of items on the stack."
+  }
+]
